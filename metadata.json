@@ -1,0 +1,8 @@
+{
+  "name": "PsicoGestão NR-1",
+  "description": "Sistema de Avaliação e Gestão de Riscos Psicossociais Ocupacionais (Subsídio ao GRO/PGR)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
